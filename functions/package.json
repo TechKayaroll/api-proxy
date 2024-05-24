@@ -16,7 +16,9 @@
     "axios": "^1.7.2",
     "cors": "^2.8.5",
     "firebase-admin": "^12.1.0",
-    "firebase-functions": "^5.0.0"
+    "firebase-functions": "^5.0.0",
+    "http": "^0.0.1-security",
+    "https": "^1.0.0"
   },
   "devDependencies": {
     "firebase-functions-test": "^3.1.0"
